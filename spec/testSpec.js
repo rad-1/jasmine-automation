@@ -1,3 +1,6 @@
+// Test article: https://www.netguru.com/codestories/which-javascript-ui-testing-framework-to-use-in-2020
+// Test website: http://automationpractice.com/index.php
+
 const webdriver = require('selenium-webdriver')
 const driver = new webdriver.Builder()
     .forBrowser(`chrome`)
